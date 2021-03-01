@@ -51,7 +51,8 @@
       </tbody>
     </table>
   </body>
-  <p><a href="https://lab3-itu.github.io/"><strong>Буцах</strong><a/></p>
+  <p><a href="https://lab3-itu.github.io/"><strong>Буцах</strong><a/>
+    </p>
    </html> 
       
       
